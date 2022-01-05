@@ -1,2 +1,3 @@
 # school
-Programy, które dali do zrobienia w szkole
+Programy, które dali do zrobienia w szkole\
+Każde z zadań powinno mieć treść zawartą w komentarzu na górze samego pliku
