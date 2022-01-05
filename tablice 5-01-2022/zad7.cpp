@@ -13,7 +13,7 @@ using namespace std;
 
 const int len = 6;
 
-void fill(int table[len], int i)
+void fill(int table[len])
 {
     for (int a = 0; a < len; a++)
         table[a] = rand() % 100;
@@ -71,8 +71,8 @@ int main()
 {
     srand(time(NULL));
     int tab1[len], tab2[len], tab3[len];
-    fill(tab1, 0);
-    fill(tab2, 2);
+    fill(tab1);
+    fill(tab2);
     zeros(tab3);
     cout << "Wartosci poczatkowe:\n";
     display(tab1, tab2, tab3); 
