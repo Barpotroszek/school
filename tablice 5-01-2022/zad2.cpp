@@ -93,4 +93,5 @@ int main()
     pkt_c(table);
     pkt_d(table);
     pkt_e(table);
+    return 0;
 }

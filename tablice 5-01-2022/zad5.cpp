@@ -47,4 +47,5 @@ int main()
     cout << "Punkt a: "<< pkt_a(len, table) << "\n";
     cout << "Punkt b: "<< pkt_b(len, table) << "\n";
     cout << "Punkt c: "<< pkt_c(len, table) << "\n";
+    return 0;
 }

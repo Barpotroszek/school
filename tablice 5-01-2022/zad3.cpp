@@ -32,7 +32,7 @@ void pkt_b(int table[n])
 {
     cout << "pkt_b:\n\t";
     for (int a = 0; a < n; a++)
-        table[a] = a+7;
+        table[a] = a + 7;
     display(table);
 }
 
@@ -47,7 +47,7 @@ void pkt_c(int table[n])
 void pkt_d(int table[n])
 {
     cout << "pkt_d:\n\t";
-    int zmienna=1;
+    int zmienna = 1;
     for (int a = 0; a < n; a++)
     {
         table[a] = zmienna;
@@ -60,7 +60,7 @@ void pkt_e(int table[n])
 {
     cout << "pkt_e:\n\t";
     for (int a = 0; a < n; a++)
-        table[a] = a+2;
+        table[a] = a + 2;
     display(table);
 }
 
@@ -71,5 +71,6 @@ int main()
     pkt_b(table);
     pkt_c(table);
     pkt_d(table);
+    return 0;
     pkt_e(table);
 }

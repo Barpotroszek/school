@@ -88,4 +88,5 @@ int main()
     cout << "\nPunkt c:\n";
     pkt_c(tab1, tab2, tab3);
     display(tab1, tab2, tab3); 
+    return 0;
 }

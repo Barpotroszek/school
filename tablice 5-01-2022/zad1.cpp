@@ -77,4 +77,5 @@ int main()
     pkt_b(table);
     pkt_c(table);
     pkt_d(table);
+    return 0;
 }

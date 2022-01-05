@@ -47,4 +47,5 @@ int main(){
     cout << "\nPunkt b:\n";
     pkt_b(tab1, tab2);
     display(tab1, tab2);
+    return 0;
 }

@@ -52,4 +52,5 @@ void funkcja(int nieujemna, int tab[n]){
 int main(){
     int tab[n];
     funkcja(n, tab);
+    return 0;
 }
