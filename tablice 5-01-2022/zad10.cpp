@@ -115,4 +115,5 @@ int main()
     cout << "d) " << pkt_d(len, tab) << "\n";
     cout << "e) " << pkt_e(len, tab) << "\n";
     cout << "f) " << pkt_f(len, tab) << "\n";
+    return 0;
 }
