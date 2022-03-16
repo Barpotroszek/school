@@ -41,12 +41,13 @@ int main()
     gMax = LEN;
     do
     {
+        cout <<"Etap " << e++ <<":\n";
         p = -1; // żeby nie wpaśc w nieskończoną pętlę
 
         // pętla wykonuje się n-1 razy, gdzie n = ilością wyrazów w tablicy
         for (int k = 0; k < gMax - 1; k++)
         {
-            cout << "k=" << k << "  ->  ";
+            cout << " k=" << k << "  ->  ";
             if (tablica[k] > tablica[k + 1]) // jeżeli lewy wyraz ma większą wartość od lewego
             {
                 swap(tablica[k], tablica[k + 1]); // zamień te wartości miejscami
@@ -55,8 +56,7 @@ int main()
             wypisz(tablica);
         }
         gMax--;
-        e++;
-        cout << " po " << e << " zmianie" << ":  ";
+        cout << "  result: ";
         wypisz(tablica);  cout << "\n\n";
     } while (p >= 0);
     cout << "\n\nEfekt koncowy:\n";
