@@ -38,7 +38,9 @@ int main()
     do
     {
         p = -1;                              // żeby nie wpaśc w nieskończoną pętlę
-        for (int k = 0; k < LEN; k++)        // k - kursor
+        
+        // pętla wykonuje się n-1 razy, gdzie n = ilością wyrazów w tablicy
+        for (int k = 0; k < LEN-1; k++)        // k - kursor
             if (tablica[k] > tablica[k + 1]) // jeżeli lewy wyraz ma większą wartość od lewego
             {
                 swap(tablica[k], tablica[k + 1]); // zamień te wartości miejscami
