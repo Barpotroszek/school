@@ -33,14 +33,14 @@ int main()
 
     int p,     // pozycja gdzie została dokonana ostatnia zamiania
         e = 0; // licznik obrotów pętli
-        
+
     cout << "\n";
     do
     {
-        p = -1;                              // żeby nie wpaśc w nieskończoną pętlę
-        
+        p = -1; // żeby nie wpaśc w nieskończoną pętlę
+
         // pętla wykonuje się n-1 razy, gdzie n = ilością wyrazów w tablicy
-        for (int k = 0; k < LEN-1; k++)        // k - kursor
+        for (int k = 0; k < LEN - 1; k++)    // k - kursor
             if (tablica[k] > tablica[k + 1]) // jeżeli lewy wyraz ma większą wartość od prawego
             {
                 swap(tablica[k], tablica[k + 1]); // zamień te wartości miejscami

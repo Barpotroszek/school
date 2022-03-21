@@ -41,7 +41,7 @@ int main()
     gMax = LEN;
     do
     {
-        cout <<"Etap " << e++ <<":\n";
+        cout << "Etap " << e++ << ":\n";
         p = -1; // żeby nie wpaśc w nieskończoną pętlę
 
         // pętla wykonuje się n-1 razy, gdzie n = ilością wyrazów w tablicy
@@ -57,7 +57,8 @@ int main()
         }
         gMax--;
         cout << "  result: ";
-        wypisz(tablica);  cout << "\n\n";
+        wypisz(tablica);
+        cout << "\n\n";
     } while (p >= 0);
     cout << "\n\nEfekt koncowy:\n";
     wypisz(tablica);
