@@ -26,12 +26,11 @@ void wypisz(int tab[LEN])
 
 int main()
 {
-    // int tablica[LEN]; // tablica z liczbami
-    int tablica[LEN] = {3, 13, 14, 14, 9, 8, 11, 15, 12, 6};
-    zapisz(tablica);
+    int tab[LEN]; // tablica z liczbami
+    zapisz(tab);
 
     cout << "Przed sortowaniem:\n";
-    wypisz(tablica);
+    wypisz(tab);
 
     int p,     // pozycja gdzie została dokonana ostatnia zamiania
         e = 0, // licznik obrotów pętli
@@ -48,18 +47,18 @@ int main()
         for (int k = 0; k < gMax - 1; k++)
         {
             cout << " k=" << k << "  ->  ";
-            if (tablica[k] > tablica[k + 1]) // jeżeli lewy wyraz ma większą wartość od prawego
+            if (tab[k] > tab[k + 1]) // jeżeli lewy wyraz ma większą wartość od prawego
             {
-                swap(tablica[k], tablica[k + 1]); // zamień te wartości miejscami
+                swap(tab[k], tab[k + 1]); // zamień te wartości miejscami
                 p = k;
             }
-            wypisz(tablica);
+            wypisz(tab);
         }
         gMax--;
         cout << "  result: ";
-        wypisz(tablica);
+        wypisz(tab);
         cout << "\n\n";
     } while (p >= 0);
     cout << "\n\nEfekt koncowy:\n";
-    wypisz(tablica);
+    wypisz(tab);
 }
