@@ -48,7 +48,7 @@ int main()
         for (int k = 0; k < gMax - 1; k++)
         {
             cout << " k=" << k << "  ->  ";
-            if (tablica[k] > tablica[k + 1]) // jeżeli lewy wyraz ma większą wartość od lewego
+            if (tablica[k] > tablica[k + 1]) // jeżeli lewy wyraz ma większą wartość od prawego
             {
                 swap(tablica[k], tablica[k + 1]); // zamień te wartości miejscami
                 p = k;
