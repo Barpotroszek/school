@@ -41,7 +41,7 @@ int main()
         
         // pętla wykonuje się n-1 razy, gdzie n = ilością wyrazów w tablicy
         for (int k = 0; k < LEN-1; k++)        // k - kursor
-            if (tablica[k] > tablica[k + 1]) // jeżeli lewy wyraz ma większą wartość od lewego
+            if (tablica[k] > tablica[k + 1]) // jeżeli lewy wyraz ma większą wartość od prawego
             {
                 swap(tablica[k], tablica[k + 1]); // zamień te wartości miejscami
                 p = k;
