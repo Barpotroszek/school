@@ -1,10 +1,7 @@
 .vscode
 *.exe
-*.docx
 *.pdf
 *.bin
-*.xlsx
-*.xls
 *obj
 *x64
 .vs
