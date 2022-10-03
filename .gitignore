@@ -4,3 +4,13 @@
 *.pdf
 *.bin
 *.xlsx
+*.xls
+*obj
+*x64
+.vs
+*.cbp
+*.sln
+*.layout
+*.depend
+*.vcxproj*
+*.zip
