@@ -1,7 +1,0 @@
-Zad 1a -> WU00012, WU00027, WU00071, WU00095, WU00007
-Zad 1b -> Najczęstsza średnia: 4.00
-zad 1c -> Przedsiębiorczość
-zad 1d -> 6
-zad 1e -> 39
-zad 1f -> Poznań i Szczecin
-zad 6 -> w każdym DS mieszka tyle samo studentów
