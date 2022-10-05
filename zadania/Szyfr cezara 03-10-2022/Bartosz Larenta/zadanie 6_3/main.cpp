@@ -43,7 +43,7 @@ int main()
     for (int i = 0; i < 3000; i++) {
         dane >> tekst >> szyfrogram;
         bool jest_ok = sprawdz_szyfrogram(tekst, szyfrogram);
-        if (jest_ok)
+        if (!jest_ok)
             wynik << tekst << '\n';
     }
     dane.close();
