@@ -6,7 +6,7 @@ ofstream wynik;
 ifstream dane;
 
 bool sprawdz_szyfrogram(string slowo, string szyfrogram) {
-    if (slowo.length() != szyfrogram.length())   return 1;
+    if (slowo.length() != szyfrogram.length())   return false;
     int k = (int)slowo[0] - (int)szyfrogram[0];
     if (k < 0) k += 26;
     int roznica;
@@ -19,10 +19,10 @@ bool sprawdz_szyfrogram(string slowo, string szyfrogram) {
         if (roznica != k) {
             cout << slowo << ", " << szyfrogram << '\n';
 
-            return 1;
+            return false;
         }
-        return 0;
     }
+    return true;
 }
 
 int main()
@@ -43,7 +43,7 @@ int main()
     for (int i = 0; i < 3000; i++) {
         dane >> tekst >> szyfrogram;
         bool jest_ok = sprawdz_szyfrogram(tekst, szyfrogram);
-        if (jest_ok == 1)
+        if (jest_ok)
             wynik << tekst << '\n';
     }
     dane.close();
