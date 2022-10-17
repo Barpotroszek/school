@@ -1,9 +1,9 @@
-5.1 -> 11
-5.2:
+zad 1 -> 11
+zad 2:
 minimalna wartość: 401, wynik nr: 17
 maksymalna wartosc: 601, wynik nr: 176
 (numerując pierwszy wynik jako 1)
 
-5.3:
+zad 3:
 najdluzsza udana seria: 6
 roznica w odleglosci: 158cm
