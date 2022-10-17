@@ -2,7 +2,8 @@
 5.2:
 minimalna wartość: 401, wynik nr: 16
 maksymalna wartosc: 601, wynik nr: 176
- 
+(numerując pierwszy wynik jako 1)
+
 5.3:
 najdluzsza udana seria: 6
 roznica w odleglosci: 158cm
