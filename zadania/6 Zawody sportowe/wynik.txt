@@ -1,6 +1,6 @@
 5.1 -> 11
 5.2:
-minimalna wartość: 401, wynik nr: 16
+minimalna wartość: 401, wynik nr: 17
 maksymalna wartosc: 601, wynik nr: 176
 (numerując pierwszy wynik jako 1)
 
