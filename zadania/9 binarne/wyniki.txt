@@ -1,0 +1,17 @@
+zad 1
+-----------------------------------
+Ilosc liczb dwucyklicznych: 18
+Najdluzszy ciag: 00100101100011100010010110001110
+jego dlugosc: 32
+
+
+zad 2
+-----------------------------------
+liczba niepoprawnych napisow: 359
+dlugosc najkrotszego wyrazu: 4
+
+
+zad 3
+-----------------------------------
+binarnie: 1101011001100101
+decymalnie: 54885
