@@ -5,5 +5,5 @@ maksymalna wartosc: 601, wynik nr: 176
 (numerując pierwszy wynik jako 1)
 
 zad 3:
-najdluzsza udana seria: 6
+najdluzsza udana seria: 6 dni
 roznica w odleglosci: 158cm
