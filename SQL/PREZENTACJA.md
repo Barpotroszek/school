@@ -251,3 +251,8 @@ CREATE TABLE uslugi_dodatkowe(
     cena_uslugi INT
 );
 ```
+---
+# Zadania:
+- [zadanie5_3](zadanie5_3.sql)
+- [zadanie5_4](zadanie5_4.sql)
+- [zadanie5_5](zadanie5_5.sql)
