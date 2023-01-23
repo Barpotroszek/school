@@ -1,4 +1,5 @@
 # ***uslugi_dodatkowe*** - cała tabela
+[STRONA GŁOWNA](../PREZENTACJA.md)
 data_wykonania | id_pobytu | rodzaj | cena_uslugi
 --- | --- | --- | ---
 2022-07-30 | 617 | 6 | 20

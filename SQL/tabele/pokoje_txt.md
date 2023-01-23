@@ -1,4 +1,5 @@
 # ***pokoje_txt*** - cała tabela
+[STRONA GŁOWNA](../PREZENTACJA.md)
 nr_pokoju | standard | cena
 --- | --- | ---
 101 | N | 220

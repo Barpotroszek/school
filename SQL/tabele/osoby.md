@@ -1,4 +1,5 @@
 # ***osoby*** - cała tabela
+[STRONA GŁOWNA](../PREZENTACJA.md)
 
 ID | imie | drugie_imie | nazwisko | rodowe | plec | data_urodzenia | zmarla | data_zgonu | partner_ID | matka_ID | ojciec_ID
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---

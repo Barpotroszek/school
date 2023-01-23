@@ -1,4 +1,5 @@
 # ***noclegi_txt*** - cała tabela
+[STRONA GŁOWNA](../PREZENTACJA.md)
 id_pobytu | data_przyjazdu | data_wyjazdu | nr_dowodu | nr_pokoju
 --- | --- | --- | --- | ---
 1 | 2022-07-01 | 2022-07-02 | MZP112190 | 401

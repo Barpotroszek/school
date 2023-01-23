@@ -1,4 +1,5 @@
 # ***klienci_txt*** - cała tabela
+[STRONA GŁOWNA](../PREZENTACJA.md)
 
 nr_dowodu | nazwisko | imie | miejscowosc
 --- | --- | --- | ---
