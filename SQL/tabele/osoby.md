@@ -35,10 +35,10 @@ ID | imie | drugie_imie | nazwisko | rodowe | plec | data_urodzenia | zmarla | d
 30 | Danuta | NULL | Baklaz | Baudyga | K | NULL | 0 | NULL | 7 | NULL | NULL
 31 | Paulina | NULL | Baklaz | Baklaz | K | NULL | 0 | NULL | NULL | 30 | 7
 32 | Milena | NULL | Baklaz | Baklaz | K | NULL | 0 | NULL | NULL | 30 | 7
-33 | Zbigniew | NULL | Larenta | Larenta | M | NULL | 0 | NULL | 9 | NULL | NULL
-34 | Jacek | NULL | Larenta | Larenta | M | NULL | 1 | NULL | NULL | 9 | 33
-35 | Bartosz | NULL | Larenta | Larenta | M | NULL | 0 | NULL | NULL | 9 | 33
-36 | Kinga | NULL | Larenta | Larenta | K | 2006-03-12T23:00:00.000Z | 1 | NULL | NULL | 9 | 33
+33 | Zbigniew | NULL | Laurent | Laurent | M | NULL | 0 | NULL | 9 | NULL | NULL
+34 | Jacek | NULL | Laurent | Laurent | M | NULL | 1 | NULL | NULL | 9 | 33
+35 | Bartosz | NULL | Laurent | Laurent | M | NULL | 0 | NULL | NULL | 9 | 33
+36 | Kinga | NULL | Laurent | Laurent | K | 2006-03-12T23:00:00.000Z | 1 | NULL | NULL | 9 | 33
 37 | Joanna | NULL | Baklaz | Kałużna | K | NULL | 0 | NULL | 10 | NULL | NULL
 38 | Przemysław | NULL | Baklaz | Baklaz | M | 2005-08-28T22:00:00.000Z | 0 | NULL | NULL | 37 | 10
 39 | Aleksandra | NULL | Baklaz | Baklaz | K | NULL | 0 | NULL | NULL | 37 | 10
