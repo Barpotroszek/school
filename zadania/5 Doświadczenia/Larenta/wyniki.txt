@@ -1,0 +1,21 @@
+zadanie 1
+-----------------------------------------
+Poziom cieczy w naczyniu [m] -> 4600,00
+Substancja chem. X [ml] -> 2682,72
+Woda [ml] -> 1917,28
+
+
+zadanie 2
+------------------------------------------
+stężenie roztworu -> 3,77%
+sumaryczna objętość wody, jaka została dolana w czasie doświadczenia -> 14500,00
+
+
+zadanie 3
+------------------------------------------
+wykres w pliku "zadanie.xlsx", arkusz: "zad 3"
+
+
+zadanie 4
+------------------------------------------
+28,05

@@ -1,0 +1,30 @@
+zad a
+--------------------------------------------------------------------
+Pesel	Nazwisko	Imie	Plec	Wiek	Preferencje
+p06240301004	Czeszewska	Paulina	dziewczynka	6	76
+p06250600128	Derengowska	Joanna	dziewczynka	6	76
+p06272102927	Jasinska	Zuzanna	dziewczynka	6	76
+p06261102347	Studzieniecka	Marta	dziewczynka	6	76
+p06311001507	Waluszko	Zofia	dziewczynka	6	76
+
+zad b
+--------------------------------------------------------------------
+Pesel	Numer_preferencji	Id_przedszkola	Wiek	Plec	Nazwisko	imie
+p09251007321	3	40	3	chlopiec	Adamczyk	Julia
+p09231813218	3	26	3	chlopiec	Adamik	Pawel
+p09320905187	3	5	3	dziewczynka	Adamowicz	Weronika
+
+
+zad c
+--------------------------------------------------------------------
+id przedszkola:	45
+nazwa przedszkola: Przedszkole nr 61
+liczba osób, które je wybrała:	20
+	
+
+zad d
+--------------------------------------------------------------------
+Nazwa_przedszkola	Liczba_miejsc	Liczba chętnych dzieci	Średnia liczba dzeici na jedno miejsce
+Przedszkole nr 1	55	36	0,65
+Przedszkole nr 12	45	31	0,69
+Niepubliczne Przedszkole Krasnal	30	27	0,90

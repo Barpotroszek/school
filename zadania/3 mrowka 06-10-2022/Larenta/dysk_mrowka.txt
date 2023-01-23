@@ -1,0 +1,2 @@
+zad 1a -> po upływie 7,85 sekund(licząc od momentu, gdy była w punkcie 0,0)
+zad 1c -> 33,6371

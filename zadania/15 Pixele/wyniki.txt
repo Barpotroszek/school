@@ -1,0 +1,12 @@
+zad 1
+ najciemniejsza: 7
+ najjasniejsza: 221
+
+zad 2
+ -> 149
+
+zad 3
+ -> 753
+
+zad 4
+ -> 5

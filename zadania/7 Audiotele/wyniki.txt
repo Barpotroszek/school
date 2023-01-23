@@ -1,0 +1,20 @@
+a) 30
+b)
+najczęściej dzwoniono z numeru: 770309737
+ile razy z niego zadzwoniono? 49
+
+c) 51
+d) 3
+e) 8
+f) 15
+g)
+	Numery telefonu	| Ilość wykonanych połączeń
+	--------------------------------------------
+	 504669045	| 30
+	 527231153	| 39
+	 623337579	| 31
+	 696946597	| 20
+	 728257806	| 45
+	 770309737	| 49
+
+h) wykres w arkuszu: "zad h"

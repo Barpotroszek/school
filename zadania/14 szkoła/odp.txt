@@ -1,0 +1,65 @@
+pkt a
+-----------------------------------------------------
+Liczba osób mieszkających poza rejonem szkoły:	15
+
+
+pkt b
+-----------------------------------------------------
+3,1,1
+
+
+
+pkt c
+-----------------------------------------------------
+idKlasy	liczba dziewcząt	liczba chłopców
+1a	26	4
+1b	26	3
+1c	28	2
+1d	26	1
+1e	30	2
+2a	30	1
+2b	25	4
+2c	27	1
+2d	31	2
+2e	19	2
+3a	24	1
+3b	24	1
+3c	23	2
+3d	19	6
+3e	22	2
+
+
+
+pkt d
+-----------------------------------------------------
+przedmiot	średnia
+geografia	3,25
+wf	3,14
+niemiecki	3,12
+angielski	3,11
+chemia	3,03
+historia	3,02
+wos	3,01
+fizyka	3,01
+polski	2,95
+matematyka	2,93
+informatyka	2,72
+
+
+pkt e
+-----------------------------------------------------
+imie	nazwisko	przedmiot
+Urszula	Bednarczyk	wos
+Krystyna	Lysek	fizyka
+Barbara	Mikolajczyk	wos
+Grazyna	Witczak	angielski
+Dorota	Wojcik	wos
+Beata	Zabielana	angielski
+Beata	Zabielana	niemiecki
+
+
+
+pkt f
+-----------------------------------------------------
+nazwisko	imie	IDklasy	średnia
+Ogoszewska	Barbara	2d	3,60

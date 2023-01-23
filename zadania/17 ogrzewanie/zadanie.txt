@@ -1,0 +1,11 @@
+1)
+  28.09.2015 wieczorem
+
+2)
+ ilosc dostaw drewna:	18
+ ogrzewanie gazem wieczorem:	32
+ ogrzewanie drewnem wieczorem:	167
+
+
+4)
+ minimalna masa drewna: 468kg
