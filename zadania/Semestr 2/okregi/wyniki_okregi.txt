@@ -1,2 +1,16 @@
 zad 1
-1339 274 166 218 3
+cwiartka I 1339 
+cwiartka I 274 
+cwiartka III 166 
+cwiartka IV 218 
+nie zawiera sie w calosci w zadnej cwiartki 3
+
+zad 2
+158
+
+zad 3
+231
+
+zad 4
+6 3 11 7 4 5 12 36 18 53 87 21 73 39 31 12 41 10 64 22 57 31 41 50 65 73 45 18 37 28
+max_lancuch: 87
