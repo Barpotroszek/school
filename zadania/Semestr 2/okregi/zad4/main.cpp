@@ -16,8 +16,7 @@ int main()
     ifstream plik;
     plik.open("okregi.txt");
     float x[1000],y[1000],r[1000];
-    float temp[3] = {};
-    int licznik=0, lancuch=1, max_lancuch=0;
+    int lancuch=1, max_lancuch=0;
     for(int j=0; j<1000; j++)
     {
         plik >>x[j]>>y[j]>>r[j];
